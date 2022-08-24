@@ -38,7 +38,8 @@ Pandas, Seaborn, Scikit Learn, and Tensorflow
 
 <h3 align="left">Programming Tools:</h3>
 Git, GitHub
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.flaticon.es/icono-gratis/logotipo-de-github_25231" alt="git" width="40" height="40"/> 
 
 <h3 align="left">Operative Systems:</h3>
 Linux, Windows
