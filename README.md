@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sebastian Sarasti Zambonino</h1>
-<h3 align="center">I am a graduate student of Artificial Intelligence. I have expericience on machine learning anda data analysis.</h3>
+<h3 align="center">I am a graduate student of Artificial Intelligence. I have expericience on machine learning and data analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebassaras02&label=Profile%20views&color=0e75b6&style=flat" alt="sebassaras02" /> </p>
 
