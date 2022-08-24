@@ -39,12 +39,12 @@ Pandas, Seaborn, Scikit Learn, and Tensorflow
 <h3 align="left">Programming Tools:</h3>
 Git, GitHub
 
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/github-logo/" alt="git" width="40" height="40"/> 
+</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://1000marcas.net/github-logo/" alt="github" width="40" height="40"/> 
 
 <h3 align="left">Operative Systems:</h3>
 Linux, Windows
 
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/es-es/windows" target="_blank" rel="noreferrer"> <img src="https://concepto.de/wp-content/uploads/2018/09/sjfogvgbk-e1537188125611-800x400.jpg" alt="windows" width="40" height="40"/>
 
 <h3 align="left">Interesing software:</h3>
 Illustrator, Photoshop
