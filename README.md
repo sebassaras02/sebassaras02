@@ -3,17 +3,12 @@
 
 
 ## 🚀 About Me
-I'm a graduate student of Artificial Intelligence. During my undergraduate studies, I fell into the world of the data. I started with data analysis, machine learning and so on.  
-
+I'm a Data Scientist with a MSc. in Artificial Intelligence. During my undergraduate studies, I fell into the world of the data. I started with data analysis, machine learning and so on.  
 
 ## Profile summarize
-👩‍💻 I'm currently working on machine learning for Radioactive Particle Tracking Projects.
+👩‍💻 I'm currently working on a data consultancy company carrying out several projects which involve machine learning and MLOps.
 
-🧠 I'm currently learning Artificial Intelligence through a Master's degree.
-
-👯‍♀️ I'm looking to work on company, in order to be a data scientist.
-
-💬 Ask me about machine learning and GEANT4.
+💬 Ask me about machine learning, MLOps, GitHub Actions, and GEANT4.
 
 📫 How to reach me "sebitas.alejo@hotmail.com"
 
@@ -25,11 +20,11 @@ I'm a graduate student of Artificial Intelligence. During my undergraduate studi
 ## 🛠 Skills
 Programming Languages: Python, C++, and Matlab.
 
-Python modules: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow.
+Python modules: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Pytorch, Scrapy.
 
-Data Bases: Postgre-SQL.
+Cloud: Azure (Azure Databricks, Azure Machine Learning, Azure Container Registry, Azure Web Apps), AWS (Sagemaker, S3, Quicksight, AppRunner, ECR), GCP (Cloud Run, Cloud Storage, DataProc).
 
-Programming tools: Jupyter Notebooks, Git, and GitHub.
+Programming tools: Jupyter Notebooks, Git, GitHub, Containers, Docker.
 
 
 
