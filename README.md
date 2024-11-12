@@ -3,28 +3,25 @@
 
 
 ## 🚀 About Me
-I'm a Data Scientist with a MSc. in Artificial Intelligence. During my undergraduate studies, I fell into the world of the data. I started with data analysis, machine learning and so on.  
+I'm a Machine Learning Engineer and Data Scientist with experience in delivering end-to-end solutions across diverse industries such as banking, retail, and pharma. In addition, I’ve led machine learning teams to develop impactful projects, including churn prediction, customer segmentation, and large language models (LLMs).
 
 ## Profile summarize
-👩‍💻 I'm currently working on a data consultancy company carrying out several projects which involve machine learning and MLOps.
+👩‍💻 I'm currently working on a consultancy company carrying out projects to drug discovery development with machine learning.
 
 💬 Ask me about machine learning, MLOps, GitHub Actions, and GEANT4.
 
 📫 How to reach me "sebitas.alejo@hotmail.com"
 
-😄 Pronouns - he-him
-
-⚡️ Fun fact - I love golden retriever dogs
-
 
 ## 🛠 Skills
-Programming Languages: Python, C++, and Matlab.
 
-Python modules: Numpy, Pandas, Matplotlib, Seaborn, Scikit Learn, Tensorflow, Pytorch, Scrapy.
-
-Cloud: Azure (Azure Databricks, Azure Machine Learning, Azure Container Registry, Azure Web Apps), AWS (Sagemaker, S3, Quicksight, AppRunner, ECR), GCP (Cloud Run, Cloud Storage, DataProc).
-
-Programming tools: Jupyter Notebooks, Git, GitHub, Containers, Docker.
+- **Programming Languages**: Python, C++, MATLAB
+- **Python Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Scrapy
+- **Cloud Platforms**:
+  - *Azure*: Azure Databricks, Azure Machine Learning, Azure Container Registry, Azure Web Apps
+  - *AWS*: SageMaker, S3, QuickSight, App Runner, ECR
+  - *GCP*: Cloud Run, Cloud Storage, DataProc
+- **Development Tools**: Jupyter Notebooks, Git, GitHub, Containers, Docker
 
 
 
